@@ -1,2 +1,2 @@
 # Quackers
-Rust docs mmo example 
+Backend(s?) for the (soon to be released) Quackers game.
